@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on Youth77</title>
-    <link>https://salmanlee.github.io/posts/</link>
+    <link>https://salmanlee.github.io/youth77/posts/</link>
     <description>Recent content in 博客 on Youth77</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
     
-	<atom:link href="https://salmanlee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salmanlee.github.io/youth77/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>一剪梅</title>
-      <link>https://salmanlee.github.io/posts/post3/</link>
+      <link>https://salmanlee.github.io/youth77/posts/post3/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://salmanlee.github.io/posts/post3/</guid>
+      <guid>https://salmanlee.github.io/youth77/posts/post3/</guid>
       <description>红藕香残玉蕈秋， 轻解罗裳，独上兰舟。 云中谁寄锦书来？ 雁字回时，月满西楼。
 花自飘零水自流。 一种相思，两处闲愁。 此情无计可消除。 才下眉头，却上心头。</description>
     </item>
     
     <item>
       <title>声声慢</title>
-      <link>https://salmanlee.github.io/posts/post1/</link>
+      <link>https://salmanlee.github.io/youth77/posts/post1/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://salmanlee.github.io/posts/post1/</guid>
+      <guid>https://salmanlee.github.io/youth77/posts/post1/</guid>
       <description>寻寻觅觅，冷冷清清，凄凄惨惨戚戚。 乍暖还寒时候，最难将息。 三杯两盏淡酒，怎敌他、晚来风急？ 雁过也，正伤心，却是旧时相识。
 满地黄花堆积。憔悴损，如今有谁堪摘？ 守着窗儿，独自怎生得黑？ 梧桐更兼细雨，到黄昏、点点滴滴。 这次第，怎一个愁字了得！</description>
     </item>
     
     <item>
       <title>如梦令</title>
-      <link>https://salmanlee.github.io/posts/post2/</link>
+      <link>https://salmanlee.github.io/youth77/posts/post2/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://salmanlee.github.io/posts/post2/</guid>
+      <guid>https://salmanlee.github.io/youth77/posts/post2/</guid>
       <description>常记溪亭日暮，沉醉不知归路， 兴尽晚回舟，误入藕花深处。 争渡，争渡，惊起一滩鸥鹭。</description>
     </item>
     
     <item>
       <title>醉花阴</title>
-      <link>https://salmanlee.github.io/posts/post4/</link>
+      <link>https://salmanlee.github.io/youth77/posts/post4/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://salmanlee.github.io/posts/post4/</guid>
+      <guid>https://salmanlee.github.io/youth77/posts/post4/</guid>
       <description>薄雾浓云愁永昼，瑞脑消金兽。佳节又重阳，玉枕纱厨，半夜凉初透。 东篱把酒黄昏后，有暗香盈袖。莫道不消魂。帘卷西风，人比黄花瘦。</description>
     </item>
     

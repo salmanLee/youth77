@@ -1,4 +1,4 @@
-baseurl                  = "https://salmanlee.github.io"               # Your domain name. Must end with "/"
+baseurl                  = "https://salmanlee.github.io/youth77"               # Your domain name. Must end with "/"
 languageCode             = "zh-cn"
 title                    = "Youth77"
 theme                    = "sam"
@@ -9,7 +9,7 @@ pygmentsCodefences       = true
 [params]
     dateform             = "2006/01/02"
     dateformfull         = "2006/01/02 15:04:05 WST"
-    favicon              = "/7.png"
+    favicon              = "/youth77/7.png"
     homepage             = "首页"                        # What to call the home page link
     galleryFolder        = "images/"                     # Where you've put your images, after "/content/gallery/" (eg. "images/")
     clickablePhotos      = true                          # Allow links to the full size images
@@ -22,17 +22,17 @@ pygmentsCodefences       = true
 # Metadata
     description          = "Welcome to my site."            # Max 160 characters show in search results
     twitterCard          = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage         = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+    primaryImage         = "/youth77/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "/youth77/posts"
     text = "博客"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "/youth77/gallery"
     text = "相册"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "/youth77/about"
     text = "关于"
     
